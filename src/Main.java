@@ -2,7 +2,7 @@ import java.sql.*;
 
 public class Main {
 
-    public static void main(String[] args) throws Exception {
+    public static void main(string[] args) throws Exception {
 
         String username = "admin";
 
