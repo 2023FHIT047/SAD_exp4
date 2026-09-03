@@ -5,7 +5,7 @@ public class Main {
         if (args.length == 0) {
             return;
         }
-
+ 
         String userInput = args[0];
 
         // Vulnerable code:
